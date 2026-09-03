@@ -1,0 +1,25 @@
+types/generated-snapshot/experimental/index.d.ts
+  s_1c3a8893655b22::t_b8a874f9c5e661 13372-13379
+types/generated-snapshot/experimental/index.ts
+  s_1c3a8893655b22::t_fb2169d925dec3 13386-13393
+types/generated-snapshot/index.d.ts
+  s_1c3a8893655b22::t_d662c93f3f47e7 13095-13102
+types/generated-snapshot/index.ts
+  s_1c3a8893655b22::t_08479b6285b0c2 13109-13116
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ca40cbeddf4ad9a62403c9ce6962a55f7081cf2c",
+  "prompts": {},
+  "sessions": {
+    "s_1c3a8893655b22": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06971-6973-7ea3-8eb6-5d4a8e39ecb0",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "zaidoon <zaidoon@cloudflare.com>"
+    }
+  }
+}
